@@ -1,0 +1,9 @@
+[
+  "test_loadsmart.py::test_full_json_reuslt",
+  "test_loadsmart.py::test_get_best_cargo_for_truck",
+  "test_loadsmart.py::test_truck_has_two_optimal_route",
+  "test_loadsmart.py::test_load_cargo_file",
+  "test_loadsmart.py::test_load_trucks_file",
+  "test_loadsmart.py::test_gmatrix_distance",
+  "test_loadsmart.py::test_get_total_distances"
+]
